@@ -28,10 +28,3 @@ Vr = (Fd * lamda)/2;
 
 % TODO: Display results
 disp(Vr);
-
-% ego car's 
-dist = Vr * 5;
-disp (dist)
-Range = 200 - dist;
- 
-disp (Range)
